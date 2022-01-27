@@ -1,4 +1,4 @@
-% 90398 Joao Afonso Alves Henriques e Silva
+% Joao Afonso Silva
 
 :- [codigo_comum].
 
